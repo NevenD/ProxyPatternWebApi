@@ -1,0 +1,6 @@
+@ProxyPatternWebApi_HostAddress = http://localhost:5224
+
+GET {{ProxyPatternWebApi_HostAddress}}/weather/zagreb
+Accept: application/json
+
+###
