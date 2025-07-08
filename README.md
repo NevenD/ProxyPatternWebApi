@@ -13,7 +13,7 @@ The gatekeeper checks credentials (access control), ensures no duplicate request
 
 The proxy is that gatekeeper. It stands between the client and the real object, controlling how and when the real service is accessed.
 
-## ✅ When to Use the Factory Pattern
+## ✅ When to Use the Proxy Pattern
 Use the Proxy Pattern when:
 
 You want to control access to an object (e.g., role-based authorization).
